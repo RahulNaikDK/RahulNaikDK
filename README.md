@@ -48,7 +48,7 @@ V+%7C+MIPS+%7C+RTL+Design;SystemVerilog+%7C+UVM+%7C+Python)](https://git.io/typi
 ---
 
 ## 🌐 Connect with Me
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:your@email.com)
+[LinkedIn](https://www.linkedin.com/in/dharma-khimavath-rahul-naik/) • [Email](mailto:rahulnaikdk1326@gmail.com)
 
 ---
 
